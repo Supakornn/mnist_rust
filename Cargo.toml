@@ -1,0 +1,10 @@
+[package]
+name = "mnist_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.15"
+rand = "0.8"
+flate2 = "1.0"
+plotters = "0.3"
