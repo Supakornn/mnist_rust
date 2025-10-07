@@ -27,7 +27,7 @@ Pretty straightforward - just grayscale images of people's handwriting.
 
 Want to see more? Run: `python3 visualize_mnist.py`
 
-[More about MNIST →](http://yann.lecun.com/exdb/mnist/)
+[More about MNIST →](https://en.wikipedia.org/wiki/MNIST_database)
 
 ## How it works
 
